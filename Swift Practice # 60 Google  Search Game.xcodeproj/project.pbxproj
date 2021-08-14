@@ -13,6 +13,8 @@
 		5DF3C8FA26C79328006A9170 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DF3C8F826C79328006A9170 /* Main.storyboard */; };
 		5DF3C8FC26C7932D006A9170 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DF3C8FB26C7932D006A9170 /* Assets.xcassets */; };
 		5DF3C8FF26C7932D006A9170 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DF3C8FD26C7932D006A9170 /* LaunchScreen.storyboard */; };
+		5DF3C90726C79ABD006A9170 /* DieGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DF3C90626C79ABD006A9170 /* DieGameViewController.swift */; };
+		5DF3C90926C7B37D006A9170 /* TenDollarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DF3C90826C7B37D006A9170 /* TenDollarViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		5DF3C8FB26C7932D006A9170 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5DF3C8FE26C7932D006A9170 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5DF3C90026C7932D006A9170 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5DF3C90626C79ABD006A9170 /* DieGameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DieGameViewController.swift; sourceTree = "<group>"; };
+		5DF3C90826C7B37D006A9170 /* TenDollarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TenDollarViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				5DF3C8F426C79328006A9170 /* SceneDelegate.swift */,
 				5DF3C8F626C79328006A9170 /* ViewController.swift */,
 				5DF3C8F826C79328006A9170 /* Main.storyboard */,
+				5DF3C90826C7B37D006A9170 /* TenDollarViewController.swift */,
+				5DF3C90626C79ABD006A9170 /* DieGameViewController.swift */,
 				5DF3C8FB26C7932D006A9170 /* Assets.xcassets */,
 				5DF3C8FD26C7932D006A9170 /* LaunchScreen.storyboard */,
 				5DF3C90026C7932D006A9170 /* Info.plist */,
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				5DF3C8F726C79328006A9170 /* ViewController.swift in Sources */,
+				5DF3C90726C79ABD006A9170 /* DieGameViewController.swift in Sources */,
+				5DF3C90926C7B37D006A9170 /* TenDollarViewController.swift in Sources */,
 				5DF3C8F326C79328006A9170 /* AppDelegate.swift in Sources */,
 				5DF3C8F526C79328006A9170 /* SceneDelegate.swift in Sources */,
 			);
